@@ -1,0 +1,23 @@
+# ?? Java compiled class files
+*.class
+
+# ?? Build directories
+/out/
+/bin/
+/target/
+
+# ?? IDE settings
+.idea/
+.vscode/
+*.iml
+
+# ?? System files
+.DS_Store
+Thumbs.db
+
+# ?? Sensitive files
+*.log
+*.key
+
+# ?? High score file (optional)
+highscore.txt
